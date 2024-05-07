@@ -1,7 +1,7 @@
 <h1 align="center">Uğur Can Kuru</h1>
 <h3 align="center">Full Time // CO-OP Indie Game Dev. // 3D - 2D // C# // Unity</h3>
 
-- Biygorafi: [https://bento.me/ugurcankuru](https://bento.me/ugurcankuru)
+- Connect with me: [https://bento.me/ugurcankuru](https://bento.me/ugurcankuru)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
